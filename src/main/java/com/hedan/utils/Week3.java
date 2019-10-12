@@ -6,7 +6,7 @@ import java.util.List;
 public class Week3 {
 	
 	public static void main(String[] args) throws IOException {
-		List<String> readFile = FileUtils.readFile("d:\\test.txt");
+		List<String> readFile = FileUtils.readFile("E:\\book.txt");
 		for (String string : readFile) {
 			String[] split = string.split("\\|");
 			MyBean bean = new MyBean();
