@@ -1,11 +1,11 @@
-package com.mmcro.utils;
+package com.hedan.utils;
 
 import java.io.Closeable;
 import java.io.IOException;
 
 /**
  * 
- * @author zhuzg
+ * @author 阿丹呐
  *
  */
 public class StreamUtils {

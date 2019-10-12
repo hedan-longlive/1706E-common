@@ -1,8 +1,8 @@
-package com.zhuzhiguang.test;
+package com.hedan.test;
 
 import org.junit.Test;
 
-import com.mmcro.utils.StringUtils;
+import com.hedan.utils.StringUtils;
 
 
 public class TestString {
